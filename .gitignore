@@ -44,9 +44,6 @@ yarn.lock
 
 # Project files
 .tmp
-dist
-app/assets/*
-!app/assets/.gitkeep
 workspace/*
 !workspace/README.md
 
