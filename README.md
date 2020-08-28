@@ -7,7 +7,9 @@ This `feature` was created using [`data-visuals-create`](https://github.com/texa
 
 Code for graphics in this project are in the `app/scripts/packs` folder. This includes the scrolly map, which code is called `mapscroll.js`. The template for this is from [mapbox's scrollytelling template](https://github.com/mapbox/storytelling), with a few adjustments.
 
-Most of the text are fed from [this google doc](https://docs.google.com/document/d/1wbVuk1l9nMB00tnIL-MegkGSaNjGxHujqPH9SJK4bR4), except for the scrolly map, which lives in `mapscroll.js` itself.
+Most of the text are fed from [this google doc](https://docs.google.com/document/d/1wbVuk1l9nMB00tnIL-MegkGSaNjGxHujqPH9SJK4bR4), except for the scrolly map, which lives in `mapscroll.js` itself. Image captions all live in their respective html files. (see below)
+
+As for the HTML templates, they are composed of a few different HTML files that are all included in `index.html`. See `index.html` for structure of the app.
 
 <!-- ONLY EDIT BELOW THIS LINE -->
 
