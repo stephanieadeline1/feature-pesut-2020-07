@@ -1,0 +1,120 @@
+{% from 'macros/prose.html' import prose %}
+
+<div id="section-bpp" class="unclicked">
+    <ul class="nav justify-content-center nav-tabs" id="nav-ancaman">
+        <li class="nav-item">
+            <a class="nav-link active" href="javascript:void(0);"   id="nav-minyak">Ancaman Lama Aktivitas Industri</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="javascript:void(0);"   id="nav-ikn">Ancaman Baru IKN</a>
+        </li>
+    </ul>
+
+    <div id="ancaman-content">
+
+        <div id="minyak" >
+            <div class="clicked intro-prose copy">
+                <h3>Tumpahan Minyak</h3>
+
+                {{ prose(context.prose3, context, featureData) }}
+
+            </div>
+            <div class="card-group w-75" style="margin: auto; text-align: center">
+                <div class="card">
+                    <img class="card-img-top" src="assets/pesutterkenaminyak.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <p style="padding-bottom: 10px;">
+                            <small class="text-muted">Pesut ditemukan mati karena tumpahan minyak di Teluk Balikpapan.</small>
+                        </p>
+                        <p>
+                            <small class="text-muted">Sumber foto: Danielle Kreb, YK RASI</small>
+                        </p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img-top" src="assets/pesutterdampar.jpeg" alt="Card image cap">
+                    <div class="card-body">
+                        <p style="padding-bottom: 10px;">
+                            <small class="text-muted">Warga meneliti bangkai pesut di Teluk Balikpapan</small>
+                        </p>
+                        <p>
+                            <small class="text-muted">Sumber foto: Forum Peduli Teluk Balikpapan</small>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            {# </div> #}
+            {{ prose(context.prose3a, context, featureData) }}
+
+            <div class="img">
+                <figure>
+                    <img src="assets/fotonelayan2.jpeg" alt="Card image cap">
+                    <p>
+                        <small class="text-muted">Idris, nelayan di Teluk Balikpapan.</small>
+                    </p>
+                    <p>Sumber foto: Syaifudin</p>
+
+                </figure>
+
+            </div>
+
+            {{ prose(context.prose3b, context, featureData) }}
+            <div class="intro-prose copy">
+                <h2 class="chart-title" style="text-align: center">Peta Sebaran Tumpahan Minyak Maret 2018</h2>
+                <div id="legend-minyak"></div>
+
+                <div id="map"></div>
+                <p class="chart-copy" style="text-align: center">Sumber data: <a href="https://spbn.pusfatja.lapan.go.id/people/profile/minyak_tumpah/?limit=100&offset=0">Pusfatja LAPAN</a>
+                </p>
+                <div class="ancaman-lain">
+                    <a id="btn-to-ikn" class="btn btn-secondary" href="#ancaman" role="button">Pelajari ancaman IKN</a>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div id="ikn" class="unclicked intro-prose copy">
+            <h3>Pembangunan Ibukota Negara</h3>
+
+            {{ prose(context.prose4, context, featureData) }}
+
+            <h2 class="chart-title" style="text-align: center">Peta Delineasi Kawasan Strategis Nasional IKN</h2>
+            <div id="legend-ikn"></div>
+
+            <div id="map-ikn"></div>
+
+            <p class="chart-copy" style="text-align: center">
+                Sumber data: <a href="https://twitter.com/bappenasri/status/1222009308310728706">Bappenas</a>
+            </p>
+
+            {{ prose(context.prose4a, context, featureData) }}
+            <div class="ancaman-lain">
+                <a id="btn-to-minyak" class="btn btn-secondary" href="#ancaman" role="button">Pelajari ancaman Industri</a>
+            </div>
+
+        </div>
+    </div>
+    {# <div id="konservasi-content">
+<div id="copy">
+<div class="img">
+<figure>
+  <img src="assets/telukbpp.jpeg" alt="Card image cap">
+  <p>Sumber foto: Syaifudin</p>
+
+</figure>
+
+</div>
+<h1 class="subhed" id="konservasi">PERLU KAWASAN KONSERVASI DI TELUK BALIKPAPAN</h1>
+{{ prose(context.prose6, context, featureData) }}
+<div id="end-bpp">
+<a class="btn btn-secondary" id="bpp-back" href="#ancaman" role="button">Pelajari tentang sungai Mahakam</a>
+</div>
+</div>
+
+</div> #}
+    <div id="end-bpp">
+        <a class="btn btn-secondary" id="bpp-back" href="#ancaman" role="button">Pelajari tentang sungai Mahakam</a>
+    </div>
+
+</div>

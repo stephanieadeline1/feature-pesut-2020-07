@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+{% from 'macros/prose.html' import prose %}
+
+{% set jsPackName = 'main' %}
+
+{# data.text --> data/text.json #}
+{% set context = data.text %}
+
+{# data.data --> data/data.json #}
+{% set featureData = data.data %}
+
+{% set authorComma = joiner() %}
+
+{% block content %}
+
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+
+  {% include 'intro.html' %}
+
+  <div class="mapbox">
+    {% include 'mapbox.html' %}
+  </div>
+
+  {% include 'nav.html' %}
+
+  {% include 'bpp.html' %}
+
+  {% include 'mahakam.html' %}
+  {% include 'footer.html' %}
+
+{% endblock content %}
+
+{% block inline_data %}{% endblock inline_data %}
