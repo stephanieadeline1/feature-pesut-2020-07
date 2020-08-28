@@ -1,73 +1,15 @@
 # Pesut
 
 This `feature` was created using [`data-visuals-create`](https://github.com/texastribune/data-visuals-create) 2.7.2 on 2020-07-08.
-[Link to your project](https://pesutfeature/features/)
+[Link to your project](https://tiny.cc/pesut)
 [Link to your doc](https://docs.google.com/document/d/1wbVuk1l9nMB00tnIL-MegkGSaNjGxHujqPH9SJK4bR4)
 [Link to your sheet](https://docs.google.com/spreadsheets/d/1YTnpRLtzdWV6sW2Ow55HdK4izaOfQ43TrLFa2NI3-Mg)
 
+Code for graphics in this project are in the `app/scripts/packs` folder. This includes the scrolly map, which code is called `mapscroll.js`. The template for this is from [mapbox's scrollytelling template](https://github.com/mapbox/storytelling), with a few adjustments.
+
+Most of the text are fed from [this google doc](https://docs.google.com/document/d/1wbVuk1l9nMB00tnIL-MegkGSaNjGxHujqPH9SJK4bR4), except for the scrolly map, which lives in `mapscroll.js` itself.
+
 <!-- ONLY EDIT BELOW THIS LINE -->
-
-## Project launch checklist
-
-This is a running list of things you should do before you launch any project on one of our apps pages.
-
-Our process for pitching and executing projects (which should happen before all of this) can be found on [this doc](https://docs.google.com/document/d/1E7QE8gp29h20EAafzSui8VjQ_9TG5-XhR33tbAP0hBA/edit).
-
-## Final editing checklist
-Before your embedded graphic or feature goes live, here's the editing steps you need to take: 
-
-- [ ] Spell check and self-edit — does everything make sense? 
-- [ ] Data visuals editor for a visual edit
-- [ ] Design feedback channel (optional for more complex graphics or apps)
-- [ ] Story reporter, if a collaboration 
-- [ ] Story or beat editor for a line edit to check facts
-- [ ] DV team in the secret channel (for a final gut check) 
-- [ ] Copy editor
-- [ ] Be available the night before publication for any last-minute changes, or let other DV teammates know how to make edits
-
-### Headline
-- [ ] Get a headline by submitting the story's budget line to the Headline Hoedown Slack channel
-
-### Article
-- [ ] Add ads (three is typically the minimum; add more if longer)
-- [ ] Make sure there's related articles (powered by the `guten_tag` property in the feature's ArchieML doc)
-- [ ] Add any sigs, icons, or lead art
-- [ ] Add share art. Our apps reference `share-art.jpg` in the `assets/images/` folder, so the image should be saved as that. THE IMAGE NEEDS TO BE SIZED SMALLER SO IT SHOWS UP ON SOCIAL. Complete the following checks and resize as needed.
-- [ ] Check [Twitter's card validator](https://cards-dev.twitter.com/validator) after deploy. If no share art shows up, it's too large.
-- [ ] Check [Facebook debugger](https://developers.facebook.com/tools/debug/) after deploy. If no share art shows up, it's too large.
-- [ ] Check Parsely validation after deploy
-- [ ] Get social buttons showing on mobile
-
-### Social
-- [ ] Check with social team about promotion
-- [ ] Review social media editor's promo materials (could include GIF's, promo images, etc.)
-- [ ] Review social blasts (Tweet storms, Facebook posts, etc.)
-
-### Browser testing
-A full list of browsers we support is available on this Confluence page. Please go through the list and test all devices listed:
-
-- [ ] Mobile: Safari
-- [ ] Mobile: Chrome
-- [ ] Mobile: Facebook
-- [ ] Desktop: Chrome
-- [ ] Desktop: Safari
-- [ ] Desktop: Edge
-- [ ] Desktop: Firefox
-- [ ] Tablet: Safari
-
-### Post-deploy tasks
-- [ ] Make sure everything works on the live url
-
-### Media partners
-If we have media partners, we need to make sure they have everything they need to post our content on their set.
-
-- [ ] Get Google doc set up for partners
-- [ ] Pull text of story into a Google Doc
-- [ ] Get art to take screenshots of the charts and put them into the Google Doc (if necessary)
-- [ ] Send Illustrator files of graphics to the partner's team (if necessary)
-
-### Other
-- [ ] Make an embed for stories
 
 ## Available commands
 
@@ -114,14 +56,6 @@ Projects created with `data-visuals-create` support two of the built-in ways tha
 ### Google
 
 The interface with Google Drive within `data-visuals-create` projects currently only supports using Oauth2 credentials to speak to the Google APIs. This requires a set of OAuth2 credentials that will be used to generate and save an access token to your computer. `data-visuals-create` projects have hardcoded locations for the credential file and token file, but you may override those with environmental variables.
-
-#### CLIENT_SECRETS_FILE
-
-**default**: `~/.tt_kit_google_client_secrets.json`
-
-#### GOOGLE_TOKEN_FILE
-
-**default**: `~/.google_drive_fetch_token`
 
 ## License
 
