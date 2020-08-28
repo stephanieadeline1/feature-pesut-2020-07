@@ -1,0 +1,820 @@
+typename,vessels,year_month
+Accommodation Barge,295,43466
+Anchor Handling Vessel,5,43466
+Bulk Carrier,644,43466
+Bunkering Tanker,16,43466
+Cargo,23,43466
+Cargo/Containership,2,43466
+Cement Carrier,13,43466
+Chemical Tanker,91,43466
+Container Ship,345,43466
+Crude Oil Tanker,331,43466
+Deck Cargo Ship,20,43466
+Fire Fighting Vessel,14,43466
+Fishing,31,43466
+General Cargo,454,43466
+High Speed Craft,94,43466
+"Inland, Unknown",15,43466
+Landing Craft,305,43466
+Leading Light Front,2,43466
+LPG Tanker,51,43466
+Multi Purpose Offshore Vessel,82,43466
+Offshore Supply Ship,917,43466
+Oil Products Tanker,1570,43466
+Oil/Chemical Tanker,743,43466
+Other,229,43466
+Passenger,391,43466
+Passenger Ship,203,43466
+Passenger/Cargo Ship,1,43466
+Pleasure Craft,27,43466
+Reserved,5,43466
+Ro-Ro Cargo,4,43466
+Ro-Ro/Passenger Ship,1055,43466
+SAR,328,43466
+Special Vessel,4,43466
+Supply Vessel,22,43466
+Tank Barge,7,43466
+Towing Vessel,160,43466
+Tug,935,43466
+Tug/Supply Vessel,46,43466
+Unspecified,447,43466
+Utility Vessel,4,43466
+Vehicles Carrier,91,43466
+Accommodation Barge,269,43497
+Bulk Carrier,692,43497
+Bunkering Tanker,6,43497
+Cargo,13,43497
+Cargo/Containership,7,43497
+Cement Carrier,32,43497
+Chemical Tanker,173,43497
+Container Ship,235,43497
+Crude Oil Tanker,180,43497
+Deck Cargo Ship,14,43497
+Fire Fighting Vessel,13,43497
+Fishing,30,43497
+General Cargo,192,43497
+High Speed Craft,84,43497
+"Inland, Unknown",15,43497
+Landing Craft,265,43497
+Leading Light Front,6,43497
+LPG Tanker,176,43497
+Multi Purpose Offshore Vessel,102,43497
+Offshore Supply Ship,1267,43497
+Oil Products Tanker,1253,43497
+Oil/Chemical Tanker,497,43497
+Other,150,43497
+Passenger,129,43497
+Passenger Ship,264,43497
+Pleasure Craft,22,43497
+Ro-Ro Cargo,2,43497
+Ro-Ro/Passenger Ship,1094,43497
+SAR,265,43497
+Supply Vessel,14,43497
+Tank Barge,1,43497
+Towing Vessel,95,43497
+Tug,945,43497
+Tug/Supply Vessel,32,43497
+Unspecified,454,43497
+Utility Vessel,23,43497
+Vehicles Carrier,75,43497
+Accommodation Barge,23,43525
+Anchor Handling Vessel,5,43525
+Bulk Carrier,743,43525
+Cargo,12,43525
+Cargo/Containership,2,43525
+Cement Carrier,4,43525
+Chemical Tanker,102,43525
+Container Ship,214,43525
+Crude Oil Tanker,324,43525
+Deck Cargo Ship,11,43525
+Fire Fighting Vessel,9,43525
+Fishing,34,43525
+General Cargo,471,43525
+Heavy Load Carrier,3,43525
+High Speed Craft,64,43525
+"Inland, Unknown",9,43525
+Landing Craft,278,43525
+Leading Light Front,5,43525
+Livestock Carrier,4,43525
+Local Vessel,1,43525
+LPG Tanker,81,43525
+Multi Purpose Offshore Vessel,133,43525
+Offshore Supply Ship,1404,43525
+Oil Products Tanker,1615,43525
+Oil/Chemical Tanker,815,43525
+Other,148,43525
+Passenger,109,43525
+Passenger Ship,279,43525
+Pleasure Craft,7,43525
+Research/Survey Vessel,1,43525
+Reserved,7,43525
+Ro-Ro Cargo,6,43525
+Ro-Ro/Passenger Ship,1173,43525
+SAR,253,43525
+Supply Vessel,22,43525
+Tank Barge,1,43525
+Tanker,34,43525
+Towing Vessel,156,43525
+Tug,1044,43525
+Tug/Supply Vessel,32,43525
+Unspecified,445,43525
+Utility Vessel,5,43525
+Vehicles Carrier,104,43525
+Accommodation Barge,24,43556
+Anchor Handling Vessel,9,43556
+Bulk Carrier,540,43556
+Bunkering Tanker,45,43556
+Buoy-Laying Vessel,1,43556
+Cargo,17,43556
+Cement Carrier,1,43556
+Chemical Tanker,64,43556
+Container Ship,304,43556
+Crude Oil Tanker,150,43556
+Deck Cargo Ship,15,43556
+Fire Fighting Vessel,72,43556
+Fishing,18,43556
+General Cargo,172,43556
+Heavy Load Carrier,1,43556
+High Speed Craft,89,43556
+Landing Craft,123,43556
+Leading Light Front,6,43556
+LPG Tanker,84,43556
+Multi Purpose Offshore Vessel,250,43556
+Offshore Supply Ship,1116,43556
+Oil Products Tanker,1576,43556
+Oil/Chemical Tanker,652,43556
+Other,119,43556
+Passenger,306,43556
+Passenger Ship,157,43556
+Pleasure Craft,5,43556
+Reefer,11,43556
+Reserved,3,43556
+Ro-Ro/Passenger Ship,1102,43556
+SAR,213,43556
+Supply Vessel,160,43556
+Tank Barge,4,43556
+Tanker,14,43556
+Towing Vessel,154,43556
+Tug,942,43556
+Tug/Supply Vessel,45,43556
+Unspecified,342,43556
+Utility Vessel,8,43556
+Vehicles Carrier,79,43556
+Accommodation Barge,60,43586
+Asphalt/Bitumen Tanker,31,43586
+Bulk Carrier,1613,43586
+Bunkering Tanker,54,43586
+Buoy-Laying Vessel,6,43586
+Cargo,28,43586
+Cargo Barge,145,43586
+Cargo/Containership,7,43586
+Cement Carrier,8,43586
+Chemical Tanker,706,43586
+Container Ship,512,43586
+Crude Oil Tanker,370,43586
+Deck Cargo Ship,75,43586
+Fire Fighting Vessel,44,43586
+Fishing,13,43586
+General Cargo,851,43586
+High Speed Craft,153,43586
+Landing Craft,344,43586
+Leading Light Front,12,43586
+Livestock Carrier,15,43586
+LPG Tanker,331,43586
+Military Ops,4,43586
+Multi Purpose Offshore Vessel,1038,43586
+Offshore Supply Ship,3874,43586
+Oil Products Tanker,5679,43586
+Oil/Chemical Tanker,2188,43586
+Other,650,43586
+Passenger,381,43586
+Passenger Ship,323,43586
+Pipelay Crane Vessel,5,43586
+Pleasure Craft,23,43586
+Ro-Ro/Passenger Ship,3474,43586
+SAR,607,43586
+Special Vessel,363,43586
+Supply Vessel,39,43586
+Tanker,18,43586
+Towing Vessel,281,43586
+Tug,1349,43586
+Tug/Supply Vessel,87,43586
+Unspecified,495,43586
+Utility Vessel,16,43586
+Vehicles Carrier,353,43586
+Accommodation Barge,75,43617
+Anchor Handling Vessel,203,43617
+Bulk Carrier,2134,43617
+Bunkering Tanker,107,43617
+Buoy-Laying Vessel,1,43617
+Cargo,40,43617
+Cargo/Containership,3,43617
+Cement Carrier,411,43617
+Chemical Tanker,171,43617
+Container Ship,489,43617
+Crude Oil Tanker,362,43617
+Deck Cargo Ship,55,43617
+Fishing,4,43617
+General Cargo,380,43617
+High Speed Craft,130,43617
+Landing Craft,232,43617
+Law Enforce,1,43617
+Leading Light Front,9,43617
+Livestock Carrier,37,43617
+Local Vessel,66,43617
+LPG Tanker,532,43617
+Multi Purpose Offshore Vessel,607,43617
+Offshore Supply Ship,3831,43617
+Oil Products Tanker,5485,43617
+Oil/Chemical Tanker,1852,43617
+Other,1108,43617
+Passenger,521,43617
+Passenger Ship,452,43617
+Pipelay Crane Vessel,42,43617
+Pleasure Craft,46,43617
+Pusher Tug,33,43617
+Ro-Ro/Passenger Ship,2940,43617
+SAR,578,43617
+Special Vessel,324,43617
+Supply Vessel,38,43617
+Towing Vessel,183,43617
+Tug,1298,43617
+Tug/Supply Vessel,159,43617
+Unspecified,549,43617
+Utility Vessel,153,43617
+Vehicles Carrier,236,43617
+Accommodation Barge,116,43647
+Anchor Handling Vessel,114,43647
+Bulk Carrier,1412,43647
+Bunkering Tanker,71,43647
+Cargo,3,43647
+Cargo Barge,253,43647
+Cargo/Containership,4,43647
+Cement Carrier,191,43647
+Chemical Tanker,253,43647
+Container Ship,681,43647
+Crew Boat,474,43647
+Crude Oil Tanker,561,43647
+Deck Cargo Ship,56,43647
+Fire Fighting Vessel,162,43647
+General Cargo,694,43647
+High Speed Craft,461,43647
+"Inland, Unknown",27,43647
+Landing Craft,294,43647
+Law Enforce,1,43647
+Leading Light Front,15,43647
+Local Vessel,8,43647
+LPG Tanker,81,43647
+Multi Purpose Offshore Vessel,632,43647
+Offshore Supply Ship,5649,43647
+Oil Products Tanker,4098,43647
+Oil/Chemical Tanker,1348,43647
+Other,1372,43647
+Passenger,561,43647
+Passenger Ship,378,43647
+Pipelay Crane Vessel,38,43647
+Platform,816,43647
+Pleasure Craft,43,43647
+Reserved,2,43647
+Ro-Ro/Passenger Ship,3468,43647
+SAR,646,43647
+Special Vessel,284,43647
+Supply Vessel,141,43647
+Tanker,1,43647
+Towing Vessel,493,43647
+Tug,1718,43647
+Tug/Supply Vessel,124,43647
+Unspecified,567,43647
+Utility Vessel,329,43647
+Vehicles Carrier,324,43647
+Accommodation Barge,96,43678
+Anchor Handling Vessel,34,43678
+Bulk Carrier,1838,43678
+Bunkering Tanker,39,43678
+Buoy-Laying Vessel,83,43678
+Cargo,57,43678
+Cargo Barge,1,43678
+Cargo/Containership,29,43678
+Cement Carrier,34,43678
+Chemical Tanker,81,43678
+Container Ship,695,43678
+Crew Boat,902,43678
+Crude Oil Tanker,597,43678
+Fire Fighting Vessel,35,43678
+General Cargo,916,43678
+High Speed Craft,61,43678
+"Inland, Unknown",74,43678
+Landing Craft,337,43678
+Leading Light Front,3,43678
+Local Vessel,6,43678
+LPG Tanker,140,43678
+Multi Purpose Offshore Vessel,376,43678
+Offshore Supply Ship,3866,43678
+Oil Products Tanker,3212,43678
+Oil/Chemical Tanker,1440,43678
+Other,521,43678
+Passenger,521,43678
+Passenger Ship,331,43678
+Pipelay Crane Vessel,55,43678
+Platform,1159,43678
+Pleasure Craft,48,43678
+Pusher Tug,65,43678
+Research/Survey Vessel,36,43678
+Ro-Ro/Passenger Ship,2496,43678
+SAR,483,43678
+SAR Aircraft,2,43678
+Special Vessel,232,43678
+Supply Vessel,35,43678
+Tanker,2,43678
+Towing Vessel,532,43678
+Tug,2606,43678
+Tug/Supply Vessel,75,43678
+Unspecified,437,43678
+Utility Vessel,305,43678
+Vehicles Carrier,204,43678
+Accommodation Barge,25,43709
+Anchor Handling Vessel,881,43709
+Bulk Carrier,867,43709
+Bunkering Tanker,26,43709
+Cargo Barge,16,43709
+Cargo/Containership,3,43709
+Cement Carrier,54,43709
+Chemical Tanker,258,43709
+Container Ship,348,43709
+Crew Boat,385,43709
+Crude Oil Tanker,420,43709
+Deck Cargo Ship,9,43709
+Dredger,1,43709
+Edible Oil Tanker,1,43709
+Fire Fighting Vessel,80,43709
+Fishing,1,43709
+General Cargo,387,43709
+High Speed Craft,25,43709
+"Inland, Unknown",14,43709
+Landing Craft,435,43709
+Leading Light Front,4,43709
+Livestock Carrier,10,43709
+Local Vessel,1,43709
+LPG Tanker,206,43709
+Multi Purpose Offshore Vessel,172,43709
+Offshore Supply Ship,3923,43709
+Oil Products Tanker,3525,43709
+Oil/Chemical Tanker,1864,43709
+Other,1006,43709
+Passenger,545,43709
+Passenger Ship,291,43709
+Pipelay Crane Vessel,35,43709
+Platform,852,43709
+Pleasure Craft,21,43709
+Pusher Tug,156,43709
+Research/Survey Vessel,258,43709
+Reserved,2,43709
+Ro-Ro/Passenger Ship,2049,43709
+SAR,405,43709
+Special Vessel,207,43709
+Supply Vessel,30,43709
+Tanker,1,43709
+Towing Vessel,280,43709
+Tug,2204,43709
+Tug/Supply Vessel,67,43709
+Unspecified,452,43709
+Utility Vessel,207,43709
+Vehicles Carrier,246,43709
+Accommodation Barge,3,43739
+Anchor Handling Vessel,839,43739
+Bulk Carrier,750,43739
+Bunkering Tanker,72,43739
+Buoy-Laying Vessel,40,43739
+Cargo,266,43739
+Cargo Barge,427,43739
+Cargo/Containership,1,43739
+Cement Carrier,49,43739
+Chemical Tanker,66,43739
+Container Ship,514,43739
+Crew Boat,524,43739
+Crude Oil Tanker,714,43739
+Deck Cargo Ship,41,43739
+Diving Support Vessel,65,43739
+Fire Fighting Vessel,107,43739
+Fishing,10,43739
+General Cargo,561,43739
+High Speed Craft,238,43739
+Landing Craft,268,43739
+Leading Light Front,4,43739
+Livestock Carrier,18,43739
+LPG Tanker,94,43739
+Multi Purpose Offshore Vessel,426,43739
+Offshore Supply Ship,3512,43739
+Oil Products Tanker,3080,43739
+Oil/Chemical Tanker,2140,43739
+Other,580,43739
+Passenger,475,43739
+Passenger Ship,214,43739
+Pipelay Crane Vessel,39,43739
+Platform,461,43739
+Pleasure Craft,10,43739
+Pusher Tug,38,43739
+Research/Survey Vessel,276,43739
+Ro-Ro/Passenger Ship,3346,43739
+SAR,30,43739
+Supply Vessel,24,43739
+Towing Vessel,328,43739
+Tug,2452,43739
+Tug/Supply Vessel,365,43739
+Unspecified,508,43739
+Utility Vessel,1,43739
+Vehicles Carrier,250,43739
+Accommodation Barge,1,43770
+Anchor Handling Vessel,605,43770
+Bulk Carrier,977,43770
+Bunkering Tanker,41,43770
+Buoy-Laying Vessel,34,43770
+Cargo,176,43770
+Cargo Barge,514,43770
+Cargo/Containership,5,43770
+Cement Carrier,65,43770
+Chemical Tanker,24,43770
+Container Ship,798,43770
+Crew Boat,26,43770
+Crude Oil Tanker,862,43770
+Deck Cargo Ship,32,43770
+Diving Support Vessel,37,43770
+Dredger,7,43770
+Fire Fighting Vessel,90,43770
+Fishing Vessel,6,43770
+General Cargo,648,43770
+High Speed Craft,210,43770
+Landing Craft,425,43770
+Livestock Carrier,6,43770
+LNG Tanker,9,43770
+LPG Tanker,70,43770
+Military Ops,10,43770
+Multi Purpose Offshore Vessel,1082,43770
+Offshore Supply Ship,2737,43770
+Oil Products Tanker,3412,43770
+Oil/Chemical Tanker,1550,43770
+Other,759,43770
+Passenger,606,43770
+Passenger Ship,236,43770
+Pipelay Crane Vessel,36,43770
+Pleasure Craft,12,43770
+Pusher Tug,125,43770
+Research/Survey Vessel,74,43770
+Reserved,1,43770
+Ro-Ro/Passenger Ship,3452,43770
+SAR,521,43770
+Supply Vessel,20,43770
+Towing Vessel,339,43770
+Tug,3316,43770
+Tug/Supply Vessel,98,43770
+Unspecified,579,43770
+Utility Vessel,71,43770
+Vehicles Carrier,231,43770
+Wing In Grnd,1,43770
+Accommodation Barge,17,43800
+Anchor Handling Vessel,644,43800
+Asphalt/Bitumen Tanker,14,43800
+Bulk Carrier,1554,43800
+Bunkering Tanker,22,43800
+Cargo Barge,58,43800
+Cargo/Containership,3,43800
+Cement Carrier,191,43800
+Chemical Tanker,417,43800
+Container Ship,379,43800
+Crew Boat,35,43800
+Crude Oil Tanker,1061,43800
+Deck Cargo Ship,26,43800
+Diving Support Vessel,248,43800
+Dredger,167,43800
+Fire Fighting Vessel,57,43800
+General Cargo,773,43800
+High Speed Craft,184,43800
+Landing Craft,455,43800
+Livestock Carrier,5,43800
+LPG Tanker,179,43800
+Multi Purpose Offshore Vessel,649,43800
+Offshore Supply Ship,4151,43800
+Oil Products Tanker,1967,43800
+Oil/Chemical Tanker,1935,43800
+Other,592,43800
+Passenger,737,43800
+Passenger Ship,257,43800
+Pipelay Crane Vessel,29,43800
+Pleasure Craft,33,43800
+Pusher Tug,309,43800
+Research/Survey Vessel,62,43800
+Reserved,3,43800
+Ro-Ro Cargo,82,43800
+Ro-Ro/Passenger Ship,2608,43800
+SAR,515,43800
+Special Vessel,8,43800
+Supply Vessel,33,43800
+Tanker,1,43800
+Towing Vessel,398,43800
+Tug,4695,43800
+Tug/Supply Vessel,206,43800
+Unspecified,358,43800
+Utility Vessel,154,43800
+Vehicles Carrier,410,43800
+Accommodation Barge,7,43831
+Anchor Handling Vessel,801,43831
+Asphalt/Bitumen Tanker,169,43831
+Bulk Carrier,2006,43831
+Bunkering Tanker,95,43831
+Cargo,239,43831
+Cargo/Containership,2,43831
+Cement Carrier,88,43831
+Chemical Tanker,286,43831
+Container Ship,626,43831
+Crude Oil Tanker,811,43831
+Deck Cargo Ship,29,43831
+Diving Support Vessel,46,43831
+Dredger,29,43831
+Fire Fighting Vessel,62,43831
+Fishing,41,43831
+General Cargo,908,43831
+High Speed Craft,392,43831
+Landing Craft,649,43831
+Livestock Carrier,4,43831
+Local Vessel,12,43831
+LPG Tanker,260,43831
+Multi Purpose Offshore Vessel,324,43831
+Offshore Supply Ship,4275,43831
+Oil Products Tanker,4334,43831
+Oil/Chemical Tanker,3776,43831
+Other,1328,43831
+Passenger,1064,43831
+Passenger Ship,350,43831
+Passenger/Cargo Ship,3,43831
+Pleasure Craft,101,43831
+Pusher Tug,95,43831
+Research/Survey Vessel,31,43831
+Ro-Ro/Passenger Ship,3818,43831
+SAR,588,43831
+Special Vessel,384,43831
+Supply Vessel,400,43831
+Tank Barge,46,43831
+Towing Vessel,150,43831
+Tug,3631,43831
+Tug/Supply Vessel,5,43831
+Unspecified,473,43831
+Utility Vessel,524,43831
+Vehicles Carrier,269,43831
+Anchor Handling Vessel,297,43862
+Bulk Carrier,2669,43862
+Bunkering Tanker,132,43862
+Cargo,5,43862
+Cargo/Containership,4,43862
+Cement Carrier,99,43862
+Chemical Tanker,385,43862
+Container Ship,462,43862
+Crude Oil Tanker,587,43862
+Deck Cargo Ship,44,43862
+Dredger,6,43862
+Fire Fighting Vessel,31,43862
+Fishing,16,43862
+Fishing Vessel,2,43862
+General Cargo,483,43862
+High Speed Craft,189,43862
+Landing Craft,692,43862
+Livestock Carrier,6,43862
+LPG Tanker,149,43862
+Multi Purpose Offshore Vessel,6,43862
+Offshore Supply Ship,4919,43862
+Oil Products Tanker,4358,43862
+Oil/Chemical Tanker,3115,43862
+Other,1031,43862
+Passenger,959,43862
+Passenger Ship,232,43862
+Pipelay Crane Vessel,110,43862
+Pleasure Craft,96,43862
+Pusher Tug,229,43862
+Research/Survey Vessel,152,43862
+Reserved,100,43862
+Ro-Ro/Passenger Ship,3375,43862
+SAR,581,43862
+Special Vessel,524,43862
+Supply Vessel,326,43862
+Towing Vessel,1,43862
+Tug,5567,43862
+Unspecified,1197,43862
+Utility Vessel,405,43862
+Vehicles Carrier,258,43862
+Anchor Handling Vessel,445,43891
+Asphalt/Bitumen Tanker,37,43891
+Bulk Carrier,1267,43891
+Bunkering Tanker,17,43891
+Buoy-Laying Vessel,3,43891
+Cargo,3,43891
+Cargo/Containership,4,43891
+Cement Carrier,61,43891
+Chemical Tanker,255,43891
+Container Ship,384,43891
+Crude Oil Tanker,398,43891
+Deck Cargo Ship,11,43891
+Dredger,17,43891
+Fire Fighting Vessel,49,43891
+Fishing,15,43891
+General Cargo,302,43891
+High Speed Craft,135,43891
+"Inland, Passenger Ship, Ferry, Cruise ship",2,43891
+Landing Craft,1002,43891
+Law Enforce,18,43891
+Livestock Carrier,13,43891
+LPG Tanker,53,43891
+Multi Purpose Offshore Vessel,394,43891
+Offshore Supply Ship,4312,43891
+Oil Products Tanker,2337,43891
+Oil/Chemical Tanker,2364,43891
+Other,708,43891
+Passenger,243,43891
+Passenger Ship,158,43891
+Pipelay Crane Vessel,232,43891
+Platform,96,43891
+Pleasure Craft,9,43891
+Port Tender,1,43891
+Research/Survey Vessel,16,43891
+Reserved,124,43891
+Ro-Ro Cargo,1,43891
+Ro-Ro/Passenger Ship,2529,43891
+SAR,380,43891
+Special Vessel,327,43891
+Supply Vessel,294,43891
+Tank Barge,4,43891
+Tanker - Hazard A (Major),6,43891
+Towing Vessel,156,43891
+Tug,3759,43891
+Unspecified,699,43891
+Utility Vessel,164,43891
+Vehicles Carrier,324,43891
+Anchor Handling Vessel,306,43922
+Bulk Carrier,828,43922
+Bunkering Tanker,17,43922
+Cargo,3,43922
+Cargo/Containership,39,43922
+Cement Carrier,28,43922
+Chemical Tanker,208,43922
+Container Ship,477,43922
+Crude Oil Tanker,428,43922
+Deck Cargo Ship,21,43922
+Fire Fighting Vessel,54,43922
+Fishing,46,43922
+General Cargo,353,43922
+High Speed Craft,104,43922
+"Inland, Unknown",1,43922
+Landing Craft,723,43922
+Law Enforce,47,43922
+Livestock Carrier,1,43922
+LPG Tanker,27,43922
+Multi Purpose Offshore Vessel,297,43922
+Offshore Supply Ship,5883,43922
+Oil Products Tanker,1561,43922
+Oil/Chemical Tanker,1541,43922
+Other,31,43922
+Passenger,268,43922
+Passenger Ship,132,43922
+Pipelay Crane Vessel,34,43922
+Platform,359,43922
+Pleasure Craft,9,43922
+Port Tender,1,43922
+Research/Survey Vessel,5,43922
+Reserved,32,43922
+Ro-Ro/Passenger Ship,2250,43922
+Sailing Vessel,1,43922
+SAR,375,43922
+Special Vessel,190,43922
+Supply Vessel,350,43922
+Tank Barge,9,43922
+Tanker,45,43922
+Towing Vessel,109,43922
+Tug,1971,43922
+Unspecified,555,43922
+Utility Vessel,149,43922
+Vehicles Carrier,67,43922
+Aggregates Carrier,1,43952
+Anchor Handling Vessel,250,43952
+Bulk Carrier,1352,43952
+Bunkering Tanker,86,43952
+Buoy-Laying Vessel,4,43952
+Cargo,7,43952
+Cargo/Containership,34,43952
+Cement Carrier,254,43952
+Chemical Tanker,218,43952
+Container Ship,408,43952
+Crude Oil Tanker,560,43952
+Deck Cargo Ship,34,43952
+Fire Fighting Vessel,49,43952
+Fishing,142,43952
+General Cargo,208,43952
+High Speed Craft,113,43952
+Landing Craft,1201,43952
+Leading Light Front,6,43952
+Livestock Carrier,4,43952
+LPG Tanker,165,43952
+Multi Purpose Offshore Vessel,906,43952
+Offshore Supply Ship,5445,43952
+Oil Products Tanker,2452,43952
+Oil/Chemical Tanker,1286,43952
+Other,37,43952
+Passenger,684,43952
+Passenger Ship,88,43952
+Pipelay Crane Vessel,36,43952
+Platform,484,43952
+Pleasure Craft,25,43952
+Pusher Tug,109,43952
+Reserved,11,43952
+Ro-Ro/Passenger Ship,2018,43952
+SAR,417,43952
+Special Vessel,280,43952
+Supply Vessel,903,43952
+Tank Barge,16,43952
+Tanker,49,43952
+Towing Vessel,334,43952
+Tug,2182,43952
+Unspecified,389,43952
+Utility Vessel,195,43952
+Vehicles Carrier,110,43952
+Anchor Handling Vessel,686,43983
+Bulk Carrier,2011,43983
+Bunkering Tanker,36,43983
+Cargo,184,43983
+Cargo - Hazard A (Major),44,43983
+Cargo/Containership,29,43983
+Chemical Tanker,97,43983
+Container Ship,604,43983
+Crude Oil Tanker,1303,43983
+Deck Cargo Ship,98,43983
+Fire Fighting Vessel,7,43983
+Fishing,178,43983
+General Cargo,538,43983
+High Speed Craft,161,43983
+Landing Craft,1215,43983
+Leading Light Front,73,43983
+Livestock Carrier,3,43983
+LPG Tanker,539,43983
+Multi Purpose Offshore Vessel,178,43983
+Offshore Supply Ship,6527,43983
+Oil Products Tanker,3426,43983
+Oil/Chemical Tanker,1506,43983
+Ore Carrier,23,43983
+Other,885,43983
+Passenger,1240,43983
+Passenger Ship,518,43983
+Pilot Vessel,68,43983
+Pipelay Crane Vessel,99,43983
+Platform,513,43983
+Pleasure Craft,661,43983
+Port Tender,82,43983
+Reserved,99,43983
+Ro-Ro Cargo,1,43983
+Ro-Ro/Passenger Ship,4229,43983
+Sailing Vessel,29,43983
+SAR,422,43983
+Special Vessel,272,43983
+Supply Vessel,22,43983
+Tank Barge,14,43983
+Tanker,153,43983
+Tanker - Hazard A (Major),11,43983
+Tug,7145,43983
+Unspecified,1088,43983
+Utility Vessel,261,43983
+Vehicles Carrier,189,43983
+Wing In Grnd,284,43983
+Anchor Handling Vessel,60,44013
+Bulk Carrier,686,44013
+Bunkering Tanker,7,44013
+Cargo,33,44013
+Cement Carrier,5,44013
+Chemical Tanker,44,44013
+Container Ship,286,44013
+Crude Oil Tanker,418,44013
+Deck Cargo Ship,19,44013
+Fire Fighting Vessel,57,44013
+General Cargo,184,44013
+High Speed Craft,72,44013
+Landing Craft,386,44013
+LPG Tanker,100,44013
+Multi Purpose Offshore Vessel,64,44013
+Offshore Supply Ship,1968,44013
+Oil Products Tanker,1356,44013
+Oil/Chemical Tanker,446,44013
+Ore Carrier,12,44013
+Other,550,44013
+Passenger,386,44013
+Passenger Ship,112,44013
+Pipelay Crane Vessel,11,44013
+Platform,265,44013
+Pleasure Craft,47,44013
+Port Tender,1,44013
+Ro-Ro/Passenger Ship,1667,44013
+SAR,193,44013
+Special Vessel,117,44013
+Supply Vessel,10,44013
+Tank Barge,7,44013
+Tanker,11,44013
+Tanker - Hazard B,20,44013
+Tug,1389,44013
+Unspecified,315,44013
+Utility Vessel,22,44013
+Vehicles Carrier,178,44013
+Wing In Grnd,175,44013

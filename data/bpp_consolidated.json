@@ -1,0 +1,280 @@
+{
+  "bpp_consolidated": [
+    {
+      "typename": "Accommodation Barge",
+      "sum": 340
+    },
+    {
+      "typename": "Aggregates Carrier",
+      "sum": 1
+    },
+    {
+      "typename": "Anchor Handling Vessel",
+      "sum": 6105
+    },
+    {
+      "typename": "Asphalt/Bitumen Tanker",
+      "sum": 220
+    },
+    {
+      "typename": "Bulk Carrier",
+      "sum": 19665
+    },
+    {
+      "typename": "Bunkering Tanker",
+      "sum": 761
+    },
+    {
+      "typename": "Buoy-Laying Vessel",
+      "sum": 165
+    },
+    {
+      "typename": "Cargo",
+      "sum": 983
+    },
+    {
+      "typename": "Cargo - Hazard A (Major)",
+      "sum": 44
+    },
+    {
+      "typename": "Cargo Barge",
+      "sum": 1269
+    },
+    {
+      "typename": "Cargo/Containership",
+      "sum": 160
+    },
+    {
+      "typename": "Cement Carrier",
+      "sum": 1525
+    },
+    {
+      "typename": "Chemical Tanker",
+      "sum": 2719
+    },
+    {
+      "typename": "Container Ship",
+      "sum": 6865
+    },
+    {
+      "typename": "Crew Boat",
+      "sum": 2346
+    },
+    {
+      "typename": "Crude Oil Tanker",
+      "sum": 8664
+    },
+    {
+      "typename": "Deck Cargo Ship",
+      "sum": 456
+    },
+    {
+      "typename": "Diving Support Vessel",
+      "sum": 396
+    },
+    {
+      "typename": "Dredger",
+      "sum": 227
+    },
+    {
+      "typename": "Edible Oil Tanker",
+      "sum": 1
+    },
+    {
+      "typename": "Fire Fighting Vessel",
+      "sum": 783
+    },
+    {
+      "typename": "Fishing",
+      "sum": 453
+    },
+    {
+      "typename": "Fishing Vessel",
+      "sum": 8
+    },
+    {
+      "typename": "General Cargo",
+      "sum": 7151
+    },
+    {
+      "typename": "High Speed Craft",
+      "sum": 2403
+    },
+    {
+      "typename": "Inland, Passenger Ship, Ferry, Cruise ship",
+      "sum": 2
+    },
+    {
+      "typename": "Inland, Unknown",
+      "sum": 116
+    },
+    {
+      "typename": "Landing Craft",
+      "sum": 7928
+    },
+    {
+      "typename": "Law Enforce",
+      "sum": 67
+    },
+    {
+      "typename": "Leading Light Front",
+      "sum": 114
+    },
+    {
+      "typename": "Livestock Carrier",
+      "sum": 107
+    },
+    {
+      "typename": "LNG Tanker",
+      "sum": 9
+    },
+    {
+      "typename": "Local Vessel",
+      "sum": 93
+    },
+    {
+      "typename": "LPG Tanker",
+      "sum": 2495
+    },
+    {
+      "typename": "Military Ops",
+      "sum": 10
+    },
+    {
+      "typename": "Multi Purpose Offshore Vessel",
+      "sum": 6049
+    },
+    {
+      "typename": "Offshore Supply Ship",
+      "sum": 59030
+    },
+    {
+      "typename": "Oil Products Tanker",
+      "sum": 43247
+    },
+    {
+      "typename": "Oil/Chemical Tanker",
+      "sum": 25717
+    },
+    {
+      "typename": "Ore Carrier",
+      "sum": 23
+    },
+    {
+      "typename": "Other",
+      "sum": 9958
+    },
+    {
+      "typename": "Passenger",
+      "sum": 8424
+    },
+    {
+      "typename": "Passenger Ship",
+      "sum": 3637
+    },
+    {
+      "typename": "Passenger/Cargo Ship",
+      "sum": 3
+    },
+    {
+      "typename": "Pilot Vessel",
+      "sum": 68
+    },
+    {
+      "typename": "Pipelay Crane Vessel",
+      "sum": 785
+    },
+    {
+      "typename": "Platform",
+      "sum": 4740
+    },
+    {
+      "typename": "Pleasure Craft",
+      "sum": 1114
+    },
+    {
+      "typename": "Port Tender",
+      "sum": 84
+    },
+    {
+      "typename": "Pusher Tug",
+      "sum": 1159
+    },
+    {
+      "typename": "Research/Survey Vessel",
+      "sum": 910
+    },
+    {
+      "typename": "Reserved",
+      "sum": 374
+    },
+    {
+      "typename": "Ro-Ro Cargo",
+      "sum": 84
+    },
+    {
+      "typename": "Ro-Ro/Passenger Ship",
+      "sum": 38578
+    },
+    {
+      "typename": "Sailing Vessel",
+      "sum": 30
+    },
+    {
+      "typename": "SAR",
+      "sum": 5941
+    },
+    {
+      "typename": "SAR Aircraft",
+      "sum": 2
+    },
+    {
+      "typename": "Special Vessel",
+      "sum": 3032
+    },
+    {
+      "typename": "Supply Vessel",
+      "sum": 2616
+    },
+    {
+      "typename": "Tank Barge",
+      "sum": 89
+    },
+    {
+      "typename": "Tanker",
+      "sum": 252
+    },
+    {
+      "typename": "Tanker - Hazard A (Major)",
+      "sum": 17
+    },
+    {
+      "typename": "Towing Vessel",
+      "sum": 3303
+    },
+    {
+      "typename": "Tug",
+      "sum": 42544
+    },
+    {
+      "typename": "Tug/Supply Vessel",
+      "sum": 1099
+    },
+    {
+      "typename": "Unspecified",
+      "sum": 7851
+    },
+    {
+      "typename": "Utility Vessel",
+      "sum": 2918
+    },
+    {
+      "typename": "Vehicles Carrier",
+      "sum": 3118
+    },
+    {
+      "typename": "Wing In Grnd",
+      "sum": 285
+    }
+  ]
+}
