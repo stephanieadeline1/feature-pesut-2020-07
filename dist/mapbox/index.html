@@ -1,0 +1,96 @@
+<script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.js"></script><link href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.css" rel="stylesheet"><script src="https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.js"></script><link href="https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.css" rel="stylesheet"><style>a,
+    a:hover,
+    a:visited {
+        color: #46c2cf;
+    }
+    #map-scrolly {
+        top: 0;
+        height: 100vh;
+        width: 100vw;
+        position: sticky;
+        z-index: -3;
+        -webkit-transform: translateZ(0px);
+        -webkit-transform: translate3d(0,0,0);
+        -webkit-perspective: 1000;
+        /* overflow: scroll; */
+        -webkit-overflow-scrolling: touch;
+    }
+    #header {
+        /* margin: 3vh auto; */
+        /* width: 90vw; */
+        padding: 5vh;
+        font-size: 30px;
+        text-align: center;
+        -webkit-transform: translateZ(0px);
+        -webkit-transform: translate3d(0,0,0);
+        -webkit-perspective: 1000;
+        /* overflow: scroll; */
+        -webkit-overflow-scrolling: touch;
+
+    }
+    #footer {
+        width: 100%;
+        min-height: 5vh;
+        text-align: center;
+        line-height: 25px;
+        font-size: 13px;
+    }
+    #features {
+        padding-top: 10vh;
+        padding-bottom: 10vh;
+        z-index: 100;
+    }
+    .centered {
+        width: 50vw;
+        margin: 0 auto;
+    }
+    .lefty {
+        width: 33vw;
+        margin-left: 5vw;
+    }
+    .righty {
+        margin-left: 62vw;
+    }
+    .light {
+        color: #444;
+        background-color: #fafafa;
+    }
+    .dark {
+        color: #fafafa;
+        background-color: #444;
+    }
+    .step {
+        padding-bottom: 50vh;
+        margin-bottom: 10vh;
+        opacity: 0.25;
+        -webkit-transform: translateZ(0px);
+        -webkit-transform: translate3d(0,0,0);
+        -webkit-perspective: 1000;
+        /* overflow: scroll; */
+        -webkit-overflow-scrolling: touch;
+    }
+    .step.active {
+        opacity: 0.9;
+        -webkit-transform: translateZ(0px);
+        -webkit-transform: translate3d(0,0,0);
+        -webkit-perspective: 1000;
+        /* overflow: scroll; */
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .step div {
+        padding: 25px 50px;
+        line-height: 25px;
+        font-size: 15px;
+    }
+
+    .step img {
+        width: 100%;
+    }
+
+    @media (max-width: 750px) {
+        #features {
+            /* width: 90vw; */
+            margin: 0 auto;
+        }
+    }</style><div id="map-scrolly"></div><div id="story"></div>
