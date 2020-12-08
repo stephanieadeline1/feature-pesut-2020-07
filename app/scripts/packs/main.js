@@ -1,8 +1,8 @@
 // import JS files
 import '../kickstart';
-import './graphic';
+// import './graphic';
 import './mapscroll';
-import './mapIkn';
+// import './mapIkn';
 import './legend';
 import './legendYear';
 import './legendMinyak';
