@@ -1,0 +1,96 @@
+<!doctype html><html lang="en"><head><title>Merajut Harapan Pesut Kalimantan</title><link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/css2?family=Amiri&display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300&display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/css2?family=Biryani&display=swap" rel="stylesheet"><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"><link rel="dns-prefetch" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap" rel="stylesheet"><link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous"><link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous"><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script><script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script><link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;1,500&display=swap" rel="stylesheet"><script src="https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.js"></script><link href="https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.css" rel="stylesheet"><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script><script src="https://raw.githubusercontent.com/jbkunst/d3-waffle/master/d3-waffle.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js" type="text/javascript"></script><!-- Start fonts --><script>window.WebFontConfig={google:{families:["Open Sans:300,400,700","PT Serif:400,700"]},timeout:1e4}</script><script async src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script><script src="https://d3js.org/topojson.v1.min.js"></script><script src="https://d3js.org/d3.v5.min.js"></script><!-- End fonts --><link rel="stylesheet" href="/feature-pesut-2020-07/dist/styles/main-fd4d0e4c45.css"><script type="module" src="/feature-pesut-2020-07/dist/scripts/runtime.bc4860547c.mjs"></script><script type="module" src="/feature-pesut-2020-07/dist/scripts/1.a48020ffde.mjs"></script><script type="module" src="/feature-pesut-2020-07/dist/scripts/18.4fe1795e16.mjs"></script><script type="module" src="/feature-pesut-2020-07/dist/scripts/main.02b51fb35c.mjs"></script></head><body><main role="main"><script src="https://d3js.org/d3.v3.min.js"></script><div class="mapbox"><script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.js"></script><link href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.css" rel="stylesheet"><script src="https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.js"></script><link href="https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.css" rel="stylesheet"><style>a,
+    a:hover,
+    a:visited {
+        color: #46c2cf;
+    }
+    #map-scrolly {
+        top: 0;
+        height: 100vh;
+        width: 100vw;
+        position: sticky;
+        z-index: -3;
+        -webkit-transform: translateZ(0px);
+        -webkit-transform: translate3d(0,0,0);
+        -webkit-perspective: 1000;
+        /* overflow: scroll; */
+        -webkit-overflow-scrolling: touch;
+    }
+    #header {
+        /* margin: 3vh auto; */
+        /* width: 90vw; */
+        padding: 5vh;
+        font-size: 30px;
+        text-align: center;
+        -webkit-transform: translateZ(0px);
+        -webkit-transform: translate3d(0,0,0);
+        -webkit-perspective: 1000;
+        /* overflow: scroll; */
+        -webkit-overflow-scrolling: touch;
+
+    }
+    #footer {
+        width: 100%;
+        min-height: 5vh;
+        text-align: center;
+        line-height: 25px;
+        font-size: 13px;
+    }
+    #features {
+        padding-top: 10vh;
+        padding-bottom: 10vh;
+        z-index: 100;
+    }
+    .centered {
+        width: 50vw;
+        margin: 0 auto;
+    }
+    .lefty {
+        width: 33vw;
+        margin-left: 5vw;
+    }
+    .righty {
+        margin-left: 62vw;
+    }
+    .light {
+        color: #444;
+        background-color: #fafafa;
+    }
+    .dark {
+        color: #fafafa;
+        background-color: #444;
+    }
+    .step {
+        padding-bottom: 50vh;
+        margin-bottom: 10vh;
+        opacity: 0.25;
+        -webkit-transform: translateZ(0px);
+        -webkit-transform: translate3d(0,0,0);
+        -webkit-perspective: 1000;
+        /* overflow: scroll; */
+        -webkit-overflow-scrolling: touch;
+    }
+    .step.active {
+        opacity: 0.9;
+        -webkit-transform: translateZ(0px);
+        -webkit-transform: translate3d(0,0,0);
+        -webkit-perspective: 1000;
+        /* overflow: scroll; */
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .step div {
+        padding: 25px 50px;
+        line-height: 25px;
+        font-size: 15px;
+    }
+
+    .step img {
+        width: 100%;
+    }
+
+    @media (max-width: 750px) {
+        #features {
+            /* width: 90vw; */
+            margin: 0 auto;
+        }
+    }</style><div id="map-scrolly"></div><div id="story"></div></div></main><script nomodule defer="defer" src="/feature-pesut-2020-07/dist/scripts/runtime.d73c699c0e.js"></script><script nomodule defer="defer" src="/feature-pesut-2020-07/dist/scripts/1.6c24202362.js"></script><script nomodule defer="defer" src="/feature-pesut-2020-07/dist/scripts/2.a9fd40d727.js"></script><script nomodule defer="defer" src="/feature-pesut-2020-07/dist/scripts/main.8ab00713e0.js"></script></body></html>
