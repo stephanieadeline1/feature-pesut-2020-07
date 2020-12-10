@@ -1,7 +1,7 @@
 # Pesut
 
 This `feature` was created using [`data-visuals-create`](https://github.com/texastribune/data-visuals-create) 2.7.2 on 2020-07-08.
-[Link to your project](https://tiny.cc/pesut)
+[Link to your project](https://pesutfeature/feature-pesut-2020-07/dist/)
 [Link to your doc](https://docs.google.com/document/d/1wbVuk1l9nMB00tnIL-MegkGSaNjGxHujqPH9SJK4bR4)
 [Link to your sheet](https://docs.google.com/spreadsheets/d/1YTnpRLtzdWV6sW2Ow55HdK4izaOfQ43TrLFa2NI3-Mg)
 

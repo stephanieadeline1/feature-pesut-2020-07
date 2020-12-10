@@ -27,7 +27,7 @@ module.exports = {
   /**
    * The folder (or "Key" in S3 lingo) to deploy the project into.
    */
-  folder: 'features',
+  folder: 'feature-pesut-2020-07/dist',
   /**
    * The S3 bucket that's used to store raw asset and workspace files.
    */
