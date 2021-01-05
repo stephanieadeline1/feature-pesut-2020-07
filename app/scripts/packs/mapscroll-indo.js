@@ -7,7 +7,7 @@ var config = {
   showMarkers: false,
   theme: 'dark',
   alignment: 'right',
-  title: 'Threats to the Irawaddy Dolphin Population',
+  title: 'HABITAT PESUT DAN ANCAMANNYA',
   subtitle: '',
   byline: '',
   footer: '',
@@ -17,7 +17,7 @@ var config = {
       title: '',
       // image: './path/to/image/source.png',
       description:
-        'Irrawaddy dolphins in East Kalimantan inhabit two large waters: Balikpapan Bay and Mahakam River.',
+        'Pesut di Kalimantan Timur adalah penghuni tetap di dua perairan: Teluk Balikpapan dan Sungai Mahakam.',
       location: {
         center: [116.84909, -0.8],
         zoom: 8,
@@ -55,9 +55,9 @@ var config = {
     },
     {
       id: 'section-intro',
-      title: 'Balikpapan Bay',
+      title: 'Teluk Balikpapan',
       description:
-        'Balikpapan Bay occupies an area that spans out over 160 square kilometers. Tobacco plants inhabit its coastline.',
+        'Luas perairan Teluk Balikpapan ditaksir 160 kilometer persegi. Lebar teluk kurang lebih tujuh kilometer dan garis pantainya dipenuhi tanaman bakau.',
       location: {
         center: [116.84909, -1.14256],
         zoom: 9,
@@ -98,7 +98,7 @@ var config = {
       title: '',
       // image: './path/to/image/source.png',
       description:
-        'According to research done by the conservation organization <a href="https://www.ykrasi.org/">Rare Aquatic Species of Indonesia (RASI)</a>, four species of marine mammals -- the Irrawaddy dolphin, bottle-nose dolphin, finless porpoise and dugong -- as well as crocodiles and turtles call Balikpapan Bay home.',
+        'Menurut riset <a href="https://www.ykrasi.org/">Yayasan Konservasi Rare Aquatic Species of Indonesia (RASI)</a> terdapat empat satwa mamalia air, buaya, dan penyu yang mendiami perairan itu.',
       svg: true,
       location: {
         center: [116.84909, -1.14256],
@@ -136,7 +136,7 @@ var config = {
       title: '',
       // image: './path/to/image/source.png',
       description:
-        '“Of the four species of marine mammals, the most prominent is the Irrawaddy dolphin, with a total population of 71 in 2015,” RASI researcher Danielle Kreb said.',
+        '"Dari empat jenis ini yang paling umum ditemukan yakni lumba-lumba Irrawaddy atau pesut laut dengan jumlah populasi sekitar 71 ekor pada 2015," ungkap Peneliti RASI, Danielle Kreb. <br/><br/>Danielle mengatakan RASI meriset temuan tersebut menggunakan metode foto identifikasi sirip punggung.',
       location: {
         center: [116.84909, -1.14256],
         zoom: 9.98,
@@ -162,10 +162,10 @@ var config = {
     },
     {
       id: 'section-2',
-      title: 'Migration from downstream to upstream',
+      title: 'Migrasi dari hilir ke hulu',
       // image: './path/to/image/source.png',
       description:
-        'Starting in 2000-2001, however, Irrawaddy dolphins that inhabited the downstream area of the bay have migrated to the river source due to threats to its habitat.<br/><br/>One of the biggest threats is ship traffic.',
+        'Sejak 2000 hingga 2001, pesut yang mendiami bagian hilir teluk mulai bermigrasi ke hulu karena ancaman habitat.<br/><br/>Apa saja ancamannya?',
       svg: true,
       location: {
         center: [116.84909, -1.14256],
@@ -217,10 +217,10 @@ var config = {
     },
     {
       id: 'section-3',
-      title: 'Threats from industrial expansion',
+      title: 'Aktivitas Industri',
       // image: './path/to/image/source.png',
       description:
-        'About 20 years ago, wood and coal companies started operating around Balikpapan Bay, increasing industrial activity and traffic of coal pontoons and oil tankers.<br/><br/> Those ships cause noise pollution, which disrupts the navigation of Irrawaddy dolphins who rely on sonar systems to know where they’re going. It is not uncommon for Irrawaddy dolphins to crash into ships.',
+        'Sekitar 20 tahun silam, perusahaan kayu dan batu bara mulai beroperasi di sekitar Teluk Balikpapan. Aktivitas industri menyebabkan lalu lintas kapal ponton batu bara dan kapal tanker minyak semakin tinggi.<br/><br/>Lalu lintas kapal-kapal tersebut menimbulkan polusi suara yang mengganggu sistem navigasi pesut yang menggunakan sonar. Tak jarang pesut juga rawan tertabrak kapal.',
       location: {
         center: [116.84909, -1.14256],
         zoom: 9,
@@ -253,10 +253,43 @@ var config = {
       title: '',
       // image: './path/to/image/source.png',
       description:
-        'According to data from <a href="https://www.marinetraffic.com/">MarineTraffic</a>, a global ship tracking company, more than 350,000 ships passed through the Balikpapan Bay area between June 2019 and July 2020. More than 35 percent of that traffic was from vessels categorized as tankers or cargo ships, whose lengths reach 200 meters. <br/><br/>“The intensity of the traffic in Balikpapan Bay is the biggest threat to the Irrawaddy dolphin,” said Hery Seputro, said Hery Seputro, a coordinator for the Agency for Food, Agriculture and Fishery in Klandasan, Balikpapan',
+        'Data <a href="https://www.marinetraffic.com/">MarineTraffic</a>, dari Juni 2019 hingga Juli 2020, ada lebih dari 350.000 kapal yang lalu lalang di area Teluk Balikpapan. Lebih dari 35 persen adalah kapal yang dikategorikan kapal tanker atau kapal kargo, yang panjangnya bisa mencapai 200 meter.<br/><br/>“Intensitas lalu lintas di Teluk Balikpapan itu jadi ancaman terbesar pesut,” ujar Koordinator TPI Klandasan, Dinas Pangan Pertanian dan Perikanan (DP3) Balikpapan, Hery Seputro saat dihubungi Kamis (6/8/2020).',
       location: {
         center: [116.84909, -1.14256],
         zoom: 9,
+        pitch: 0,
+        bearing: 0.0,
+      },
+      onChapterEnter: [
+        {
+          layer: 'pesut-teluk-bpp-2015',
+          opacity: 1,
+        },
+        {
+          layer: 'titikkapal',
+          opacity: 1,
+        },
+      ],
+      onChapterExit: [
+        {
+          layer: 'pesut-teluk-bpp-2015',
+          opacity: 1,
+        },
+        {
+          layer: 'titikkapal',
+          opacity: 1,
+        },
+      ],
+    },
+    {
+      id: 'section-4',
+      title: '',
+      // image: './path/to/image/source.png',
+      description:
+        'Sebab di Teluk Balikpapan, semua alur dari lokal sampai internasional melintasi perairan itu, yakni dari nelayan lokal, akses antar wilayah, hingga bongkar muat batu bara dan minyak dengan kapal-kapal asing. “Ditambah lagi rencana ibu kota negara nanti. Lalu lintas lautnya kalau enggak diatasi benar-benar, bakal bahaya semua biota laut,” tutur Hery.',
+      location: {
+        center: [116.84909, -1.14256],
+        zoom: 9.5,
         pitch: 0,
         bearing: 0.0,
       },
@@ -285,49 +318,12 @@ var config = {
         },
       ],
     },
-    // {
-    //   id: 'section-4',
-    //   title: '',
-    //   // image: './path/to/image/source.png',
-    //   description:
-    //     'Sebab di Teluk Balikpapan, semua alur dari lokal sampai internasional melintasi perairan itu, yakni dari nelayan lokal, akses antar wilayah, hingga bongkar muat batu bara dan minyak dengan kapal-kapal asing. “Ditambah lagi rencana ibu kota negara nanti. Lalu lintas lautnya kalau enggak diatasi benar-benar, bakal bahaya semua biota laut,” tutur Hery.',
-    //   location: {
-    //     center: [116.84909, -1.14256],
-    //     zoom: 9.5,
-    //     pitch: 0,
-    //     bearing: 0.0,
-    //   },
-    //   onChapterEnter: [
-    //     {
-    //       layer: 'pesut-teluk-bpp-2015',
-    //       opacity: 1,
-    //     },
-    //     {
-    //       layer: 'titikkapal',
-    //       opacity: 1,
-    //     },
-    //     {
-    //       layer: 'tumpahanbppall',
-    //       opacity: 0,
-    //     },
-    //   ],
-    //   onChapterExit: [
-    //     {
-    //       layer: 'pesut-teluk-bpp-2015',
-    //       opacity: 1,
-    //     },
-    //     {
-    //       layer: 'titikkapal',
-    //       opacity: 1,
-    //     },
-    //   ],
-    // },
     {
       id: 'section-4a',
-      title: 'Oil spill',
+      title: '',
       // image: './path/to/image/source.png',
       description:
-        'The PT Pertamina oil spill that occurred  tragedy that happened on March 31, 2018, threatenedin Balikpapan was a threat to the entire Balikpapan Bay ecosystem.<br/><br/>The oil spread across around 20,000 hectares of water in the bay, according to satellite data from <a href="https://spbn.pusfatja.lapan.go.id/people/profile/minyak_tumpah/?limit=100&offset=0">LAPAN</a>.',
+        'Salah satu contoh akibat aktivitas industri adalah bencana tumpahan minyak pada 31 Maret 2018 yang mengancam seluruh penghuni teluk, termasuk pesut. <a href="https://spbn.pusfatja.lapan.go.id/people/profile/minyak_tumpah/?limit=100&offset=0">Pantauan satelit LAPAN</a> mengungkap luas tumpahan minyak lebih dari 20.000 hektar.',
       svg: true,
       location: {
         center: [116.84909, -1.14256],
@@ -362,10 +358,10 @@ var config = {
     },
     {
       id: 'section-5a',
-      title: "Indonesia's new capital: a new threat",
+      title: 'Ancaman Baru: Pemindahan Ibukota Negara',
       // image: './path/to/image/source.png',
       description:
-        'Indonesia’s new capital will cover an area of <a href="https://twitter.com/BappenasRI/status/1222009308310728706/photo/1">more than 250 hectares</a> very close to Irrawaddy dolphin habitats, which poses a new threat to the dolphin population in the Balikpapan Bay due to its proximity.',
+        'Ibukota baru bakal terbagi menjadi tiga ring cakupan wilayah, dengan area keseluruhan mencakup lebih dari <a href="https://twitter.com/BappenasRI/status/1222009308310728706/photo/1">250 hektar</a>. Lokasi IKN sangat dekat dengan habitat pesut dan akan menjadi ancaman baru bagi pesut di Teluk.',
       svg: true,
       location: {
         center: [116.9, -1],
@@ -408,10 +404,10 @@ var config = {
     },
     {
       id: 'mahakam-1',
-      title: 'Mahakam River',
+      title: 'Sungai Mahakam',
       // image: './path/to/image/source.png',
       description:
-        'The Mahakam River is home to around 80 Irrawaddy dolphins, based on data from RASI collected in 2018-2019.  Kreb also found based on DNA analysis that despite their similarities, Irrawaddy dolphins in the Balikpapan Bay are not the same as those that live on the Mahakam River.',
+        'Di Sungai Mahakam, diperkirakan ada sekitar 80 ekor pesut, berdasarkan data RASI. Yayasan RASI melakukan survei ke perairan Mahakam setiap tahunnya, dan pada tahun 2018-2019, pesut ditemukan di titik-titik ini.<br/><br/>Temuan lain, kata Danielle, pesut yang berada di Teluk Balikpapan tak sama dengan pesut yang mendiami Sungai Mahakam berdasarkan analisis DNA, meski kedua jenis ini merupakan saudara dekat.',
       location: {
         center: [116.3991, -0.10803],
         zoom: 7.88,
@@ -456,7 +452,7 @@ var config = {
       title: '',
       // image: './path/to/image/source.png',
       description:
-        'Between 1995 and June 2019, 103 Irrawaddy dolphins have been found dead in the river, with an average of 4 deaths recorded each year. The worst decline in the last 20 years was in 2018, when 11 dolphins were found dead. In 2019, the number of recorded deaths dropped to five.',
+        'Namun sayangnya, sejak 1995 hingga Juni 2019, sudah ada 103 ekor pesut yang mati, dengan rata-rata kematian 4 ekor setiap tahunnya.<br/><br/>Ancaman bagi pesut di sungai Mahakam salah satunya adalah pencemaran logam berat di perairan, serta kapal ponton batu bara yang lalu lalang di sungai.',
       location: {
         center: [116.2991, -0.10803],
         zoom: 8.44,

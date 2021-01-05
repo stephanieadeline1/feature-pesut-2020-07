@@ -47,7 +47,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('Orcaella brevirostris (Pesut)')
+    .text('Orcaella brevirostris (Irawaddy Dolphin)')
     .attr('x', 15)
     .attr('y', -10)
     .attr('text-anchor', 'start')
@@ -65,7 +65,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('Tursiops aduncus (Lumba-lumba hidung botol)')
+    .text('Tursiops aduncus (Bottle-nose Dolphin)')
     .attr('x', 15)
     .attr('y', 10)
     .attr('text-anchor', 'start')
@@ -83,7 +83,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('Neophocanea phocaenoides (Porpoise tanpa sirip belakang)')
+    .text('Neophocanea phocaenoides (Finless Porpoise)')
     .attr('x', 15)
     .attr('y', 30)
     .attr('text-anchor', 'start')
@@ -101,7 +101,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('Dugong dugon (duyung)')
+    .text('Dugong dugon (Dugong)')
     .attr('x', 15)
     .attr('y', 50)
     .attr('text-anchor', 'start')
@@ -119,7 +119,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('Crocodiylus porosus (Buaya)')
+    .text('Crocodiylus porosus (Crocodile)')
     .attr('x', 15)
     .attr('y', 70)
     .attr('text-anchor', 'start')
@@ -137,7 +137,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('Chelonia mydas (penyu)')
+    .text('Chelonia mydas (Sea Turtle)')
     .attr('x', 15)
     .attr('y', 90)
     .attr('text-anchor', 'start')

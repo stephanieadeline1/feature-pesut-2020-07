@@ -38,7 +38,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('Hasil Pantau Satelit Tanggal:')
+    .text('Satellite imagery on')
     .attr('x', 0)
     .attr('y', -8)
     .attr('text-anchor', 'start')
@@ -54,7 +54,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('2 April 2018 (136 km2)')
+    .text('April 2, 2018 (136 km2)')
     .attr('x', 25)
     .attr('y', 12)
     .attr('text-anchor', 'start')
@@ -70,7 +70,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('3 April 2018 (97.2 km2)')
+    .text('April 3, 2018 (97.2 km2)')
     .attr('x', 25)
     .attr('y', 32)
     .attr('text-anchor', 'start')
@@ -86,7 +86,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('7 April 2018 (14.1 km2)')
+    .text('April 7, 2018 (14.1 km2)')
     .attr('x', 25)
     .attr('y', 52)
     .attr('text-anchor', 'start')
@@ -102,7 +102,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('8 April 2018 (3.1 km2)')
+    .text('April 8, 2018 (3.1 km2)')
     .attr('x', 25)
     .attr('y', 72)
     .attr('text-anchor', 'start')
@@ -118,7 +118,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('14 April 2018 (3 km2)')
+    .text('April 14, 2018 (3 km2)')
     .attr('x', 25)
     .attr('y', 92)
     .attr('text-anchor', 'start')

@@ -41,7 +41,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('Hasil Pantau Satelit Tanggal:')
+    .text('Hasil Pantau s Tanggal:')
     .attr('x', 0)
     .attr('y', -8)
     .attr('text-anchor', 'start')

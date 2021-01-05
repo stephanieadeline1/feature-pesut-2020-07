@@ -38,7 +38,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('Luas:')
+    .text('Area:')
     .attr('x', 0)
     .attr('y', -8)
     .attr('text-anchor', 'start')
@@ -54,7 +54,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('Kawasan pusat pemerintahan (5.644 Ha)')
+    .text('Central government area (5.644 Ha)')
     .attr('x', 25)
     .attr('y', 12)
     .attr('text-anchor', 'start')
@@ -70,7 +70,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('Kawasan Inti KSN Calon IKN (56.181 Ha)')
+    .text('Core National Strategic Area (56.181 Ha)')
     .attr('x', 25)
     .attr('y', 32)
     .attr('text-anchor', 'start')
@@ -86,7 +86,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('KSN Calon IKN (256.143 Ha)')
+    .text('National Strategic Area (256.143 Ha)')
     .attr('x', 25)
     .attr('y', 52)
     .attr('text-anchor', 'start')

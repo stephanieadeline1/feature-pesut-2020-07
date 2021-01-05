@@ -47,7 +47,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('Survei 2015')
+    .text('2015 Survey')
     .attr('x', 15)
     .attr('y', -10)
     .attr('text-anchor', 'start')
@@ -63,7 +63,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('Survei 2011')
+    .text('2011 Survey')
     .attr('x', 15)
     .attr('y', 10)
     .attr('text-anchor', 'start')
@@ -78,7 +78,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('Survei 2008')
+    .text('2008 Survey')
     .attr('x', 15)
     .attr('y', 30)
     .attr('text-anchor', 'start')
@@ -94,7 +94,7 @@ function resize() {
 
   svg
     .append('text')
-    .text('Survey 2001')
+    .text('2001 Survey')
     .attr('x', 15)
     .attr('y', 50)
     .attr('text-anchor', 'start')
